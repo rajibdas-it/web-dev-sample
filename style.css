@@ -76,6 +76,11 @@ P {
     background-position: left;
 }
 
+.experience-area p {
+    text-align: justify;
+    padding-right: 5px;
+}
+
 #full-satck {
     border-left: 5px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato);
